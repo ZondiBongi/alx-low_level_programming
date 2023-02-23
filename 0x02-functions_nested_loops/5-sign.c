@@ -6,7 +6,7 @@
  *Return: 1 for positiv num, -1 for negative num or 0 for anything else.
  */
 
-int print_sign(int )
+int print_sign(int n)
 
 {
 	
