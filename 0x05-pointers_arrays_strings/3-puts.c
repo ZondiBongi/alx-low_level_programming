@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts - print a string followed by a new line to stndout
+ * _puts - print a string, followed by a new line to stndout
  * @str: string to be printed
  */
 void _puts(char *str)
@@ -9,5 +9,5 @@ void _puts(char *str)
 	{
 		_putchar(*str++);
 	}
-	_putcahr('\n');
+	_putchar('\n');
 }
