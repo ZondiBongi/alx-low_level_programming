@@ -8,3 +8,4 @@
 6. Expect the best. Prepare for the worst. Capitalize on what comes -Write a function that capitalizes all words of a string.
 7. Mozart composed his music not for the elite, but for everybody -Write a function that encodes a string into 1337.
 9. Numbers have life; they're not just symbols on paper -Write a function that prints an integer.
+10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
