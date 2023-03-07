@@ -2,7 +2,7 @@
 
 /**
  * _memcpy - copies n bytes from memory area src to memory area dest
- * @src: memory area to to ce copied
+ * @src: memory area to to be copied initially stored
  * @dest: where intial memory area needs to be copied into
  * @n: number of bytes/or byte size
  *
@@ -16,7 +16,7 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 
 	for (; r > i; r++)
 	{
-	src[r] = src[r];
+	dest[r] = src[r];
 	n--;
 	}
 	return (dest);
